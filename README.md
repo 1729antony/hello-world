@@ -1,2 +1,4 @@
 # hello-world
-understanding github. now making first change.
+understanding github. now making few more changes from the previous for terminal study.
+
+
